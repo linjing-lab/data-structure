@@ -27,7 +27,7 @@ Status Get(Complex C, int k, ElemType &e){
 
 /* Change the value of the k position */
 Status Put(Complex &C, int k, ElemType e){
-	if(k < 1 || k > 3) return ERROR;
+	if(k < 1 || k > 2) return ERROR;
 	C[k - 1] = e;
 	return OK;
 }

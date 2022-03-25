@@ -27,7 +27,7 @@ Status Get(RationalNumber R, int k, ElemType &e){
 
 /* Change the value of the k position */
 Status Put(RationalNumber &R, int k, ElemType e){
-	if(k < 1 || k > 3) return ERROR;
+	if(k < 1 || k > 2) return ERROR;
 	R[k - 1] = e;
 	return OK;
 }
