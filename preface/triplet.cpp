@@ -1,13 +1,5 @@
-#include <stdio.h>
-#include <cstdlib>
-#define TRUE 1
-#define FALSE 0
-#define OK 1
-#define ERROR 0
-#define INFEASIBLE -1
-#define OVERFLOW -2
+#include "preface.h"
 typedef int ElemType;
-typedef ElemType Status;
 typedef ElemType *Triplet;
 
 /* Initial the triple */
@@ -78,5 +70,6 @@ int main(){
 	printf("The maximum of triple is %d\n", e);
 	Min(T, e);
 	printf("The minimum of triple is %d\n", e);
+	DestroyTriplet(T);
 	return 0;
 }
