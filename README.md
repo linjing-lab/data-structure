@@ -17,4 +17,4 @@
 
 [max3（求三个元素中的最大值）](https://github.com/linjing-lab/data-structure/blob/main/preface/max3.cpp)
 
-[降序输出三个元素的](https://github.com/linjing-lab/data-structure/blob/main/preface/descend3.cpp)
+[降序输出三个元素](https://github.com/linjing-lab/data-structure/blob/main/preface/descend3.cpp)
