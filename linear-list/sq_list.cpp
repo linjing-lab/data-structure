@@ -121,7 +121,7 @@ Status ListDelete_Sq(SqList &L, int i, ElemType &e){
 
 void visit(ElemType *c){
    printf("%d ",*c);
- }
+}
 
 /* Print */
 Status ListTraverse_Sq(SqList L, void(*visit)(ElemType *e)){
