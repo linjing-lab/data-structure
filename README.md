@@ -13,7 +13,7 @@
 ### 1.4 [习题与解答](https://github.com/linjing-lab/data-structure/blob/main/preface/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94.md)
 [复数（Complex）](https://github.com/linjing-lab/data-structure/blob/main/preface/complex.cpp)
 
-[有理数（RationalNumber）](https://github.com/linjing-lab/data-structure/blob/main/preface/rationalnumber.cpp)
+[有理数（RationalNumber）](https://github.com/linjing-lab/data-structure/blob/main/preface/rational_number.cpp)
 
 [max3（求三个元素中的最大值）](https://github.com/linjing-lab/data-structure/blob/main/preface/max3.cpp)
 
