@@ -18,3 +18,11 @@
 [max3（求三个元素中的最大值）](https://github.com/linjing-lab/data-structure/blob/main/preface/max3.cpp)
 
 [降序输出三个元素](https://github.com/linjing-lab/data-structure/blob/main/preface/descend3.cpp)
+
+## 第二章：线性表
+### 2.1 线性表的类型定义
+### 2.2 线性表的顺序表示和实现
+[顺序表的抽象数据类型](https://github.com/linjing-lab/data-structure/blob/main/linear-list/sq_list.cpp)
+
+### 2.3 线性表的链式表示和实现
+### 2.4 一元多项式的表示及相加
