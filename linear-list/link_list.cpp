@@ -1,6 +1,4 @@
 #include "linear_list.h"
-#include <iostream>
-using namespace std;
 
 typedef int ElemType;
 typedef struct LNode{
