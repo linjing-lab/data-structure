@@ -1,7 +1,7 @@
 #include "linear_list.h"
 
-#define LIST_INIT_SIZE 100
-#define LIST_INCREMENT 10
+#define LIST_INIT_SIZE 9
+#define LIST_INCREMENT 1
 typedef int ElemType;
 typedef struct{
 	ElemType *elem;	/* Storage space base address */
