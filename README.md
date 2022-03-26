@@ -20,9 +20,11 @@
 [降序输出三个元素](https://github.com/linjing-lab/data-structure/blob/main/preface/descend3.cpp)
 
 ## 第二章：线性表
-### 2.1 线性表的类型定义
-### 2.2 线性表的顺序表示和实现
+### 2.1 [线性表的类型定义](https://github.com/linjing-lab/data-structure/blob/main/linear-list/%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E7%B1%BB%E5%9E%8B%E5%AE%9A%E4%B9%89.md)
+### 2.2 [线性表的顺序表示和实现](https://github.com/linjing-lab/data-structure/blob/main/linear-list/%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E9%A1%BA%E5%BA%8F%E8%A1%A8%E7%A4%BA%E5%92%8C%E5%AE%9E%E7%8E%B0.md)
 [顺序表的抽象数据类型](https://github.com/linjing-lab/data-structure/blob/main/linear-list/sq_list.cpp)
 
-### 2.3 线性表的链式表示和实现
+### 2.3 [线性表的链式表示和实现](https://github.com/linjing-lab/data-structure/blob/main/linear-list/%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E9%93%BE%E5%BC%8F%E8%A1%A8%E7%A4%BA%E5%92%8C%E5%AE%9E%E7%8E%B0.md)
+[单链表的抽象数据类型](https://github.com/linjing-lab/data-structure/blob/main/linear-list/link_list.cpp)
+
 ### 2.4 一元多项式的表示及相加
