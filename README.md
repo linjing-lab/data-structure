@@ -29,7 +29,7 @@
 
 [集合运算的算法](./linear-list/slink_list.cpp)
 
-[Polynomial](./linear-list/polynomial.cpp)
+[Polynomial的抽象数据类型](./linear-list/polynomial.cpp)
 
 ### 2.5 [习题与解答](./linear-list/习题与解答.md)
 
