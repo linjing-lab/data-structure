@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)&emsp;![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)&emsp;![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 ## 第一章：绪论
-### 1.1 [基本概念和术语](./preface/基本概念和术语.md)
+### 1.1 [基本概念和术语](./preface/基本概念与术语.md)
 ### 1.2 [抽象数据类型的表示与实现](./preface/抽象数据类型的表示与实现.md)
 [三元组（Triple）](./preface/triplet.cpp)
 
@@ -34,7 +34,7 @@
 ### 2.5 [习题与解答](./linear-list/习题与解答.md)
 
 ## 第三章：栈
-### 3.1 [抽象数据类型的定义](./stack/抽象数据类型的定义.md)
+### 3.1 [抽象数据类型的定义](./stack/抽象数据类型栈的定义.md)
 
 ### 3.2 [栈的表示与实现](./stack/栈的表示与实现.md)
 
