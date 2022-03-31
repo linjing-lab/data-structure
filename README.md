@@ -43,7 +43,7 @@
 
 [数制转换](./stack/conversion.cpp)
 
-[括号匹配](./stack/parenthesis_match.cpp)
+[括号匹配](./stack/parenthesis match.cpp)
 
 ### 3.2 [栈与递归的实现](./stack/栈与递归的实现.md)
 
