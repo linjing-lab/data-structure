@@ -46,6 +46,7 @@
 [括号匹配](./stack/parenthesis_match.cpp)
 
 ### 3.2 [栈与递归的实现](./stack/栈与递归的实现.md)
+[hanoi的递归实现](./stack/hanoi.cpp)
 
 ### 3.3 习题与解答
 
