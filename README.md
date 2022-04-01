@@ -1,6 +1,7 @@
 # 数据结构与算法
 
 参考书籍：清华大学计算机系列课程 数据结构（C语言版） 严蔚敏著
+> 学习顺序：绪论（√） → 线性表（√） → 栈与队列（√） → 串 → 数组和广义表 → 树和二叉树 → 图 → （动态存储管理） → 查找 → 内排序（外排序） → 文件
 
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)&emsp;![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)&emsp;![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
