@@ -56,3 +56,11 @@
 ### 4.3 [习题与解答](./queue/习题与解答.md)
 
 ## 第五章：串
+|抽象数据类型或算法|代码|
+|--|--|
+|串的堆分配表示（未全部实现，不可运行）|[HeapString](./string/heap_string.cpp)
+|模式匹配算法|[ModeMatch](./string/mode_matching.cpp)
+
+### 5.1 [串类型的定义](./string/串类型的定义.md)
+### 5.2 [串的模式匹配算法](./string/串的模式匹配算法.md)
+### 5.3 [习题与解答](./string/习题与解答.md)
