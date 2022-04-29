@@ -19,8 +19,8 @@
 |单链表|[LinkList](./src/linear-list/code/link_list.cpp)|
 |集合运算的算法|[SLinkList](./src/linear-list/code/slink_list.cpp)|
 |一元多项式|[Polynomial](./src/linear-list/code/polynomial.cpp)|
-|顺序存储结构|[SqStack](./src/stack/code/sq_stack.cpp)|
-|链式存储结构|[LinkStack](./src/stack/code/link_stack.cpp)|
+|栈-顺序存储结构|[SqStack](./src/stack/code/sq_stack.cpp)|
+|栈-链式存储结构|[LinkStack](./src/stack/code/link_stack.cpp)|
 |数制转换|[conversion](./src/stack/code/conversion.cpp)|
 |括号匹配|[Parenthesis Match](./src/stack/code/parenthesis_match.cpp)|
 |hanoi的递归实现|[hanoi](./src/stack/code/hanoi.cpp)|
