@@ -12,7 +12,7 @@
 |--|--|
 |三元组|[triplet](./src/preface/code/triplet.cpp)|
 |复数|[complex](./src/preface/code/complex.cpp)|
-|有理数|[rational_number](./src/preface/code/rational_number.cpp)|
+|有理数|[Rational Number](./src/preface/code/rational_number.cpp)|
 |三元素最大值|[max3](./src/preface/code/max3.cpp)|
 |降序排序三元素|[descend3](./src/preface/code/descend3.cpp)|
 |顺序表|[SqList](./src/linear-list/code/sq_list.cpp)|
@@ -22,10 +22,10 @@
 |顺序存储结构|[SqStack](./src/stack/code/sq_stack.cpp)|
 |链式存储结构|[LinkStack](./src/stack/code/link_stack.cpp)|
 |数制转换|[conversion](./src/stack/code/conversion.cpp)|
-|括号匹配|[Parenthesis_Match](./src/stack/code/parenthesis_match.cpp)|
+|括号匹配|[Parenthesis Match](./src/stack/code/parenthesis_match.cpp)|
 |hanoi的递归实现|[hanoi](./src/stack/code/hanoi.cpp)|
 |单链队列|[LinkQueue](./src/queue/code/link_queue.cpp)|
-|循环队列|[Circular_Queue](./src/queue/code/circular_queue.cpp)|
+|循环队列|[Circular Queue](./src/queue/code/circular_queue.cpp)|
 |串的堆分配表示（未全部实现，不可运行）|[HeapString](./src/string/code/heap_string.cpp)
 |模式匹配算法|[ModeMatch](./src/string/code/mode_matching.cpp)
 
