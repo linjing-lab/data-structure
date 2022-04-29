@@ -12,7 +12,7 @@
 |--|--|
 |三元组|[triplet](./src/preface/code/triplet.cpp)|
 |复数|[complex](./src/preface/code/complex.cpp)|
-|有理数|[rational_number.cpp](./src/preface/code/rational_number.cpp)|
+|有理数|[rational_number](./src/preface/code/rational_number.cpp)|
 |三元素最大值|[max3](./src/preface/code/max3.cpp)|
 |降序排序三元素|[descend3](./src/preface/code/descend3.cpp)|
 |顺序表|[SqList](./src/linear-list/code/sq_list.cpp)|
