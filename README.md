@@ -10,7 +10,7 @@
 ### 1.3 [算法和算法分析](./src/preface/算法和算法分析.md)
 ### 1.4 [习题与解答](./src/preface/习题与解答.md)
 
-<div class="center">
+<div align="center">
 
 |抽象数据类型或算法|代码|
 |--|--|
