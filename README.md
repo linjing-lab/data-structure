@@ -34,6 +34,7 @@
 ## 参考资料
 
 * 数据结构（C语言版）
+* [习题解答](./asserts/数据结构习题集答案（C语言版严蔚敏）.pdf)
 
 ## LICENSE
 [MIT LICENSE](./LICENSE)
