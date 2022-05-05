@@ -1,12 +1,12 @@
 # data-structure🎡
 
-<div align="center">
+<p align='center'>
     <img src="./asserts/headline.png">
-</div>
+</p>
 
 ## 参考代码
 
-<div align="center">
+<p align="center">
 
 |抽象数据类型或算法|代码|
 |--|--|
@@ -29,7 +29,7 @@
 |串的堆分配表示（未全部实现，不可运行）|[HeapString](./src/string/code/heap_string.cpp)
 |模式匹配算法|[ModeMatch](./src/string/code/mode_matching.cpp)
 
-</div>
+</p>
 
 ## 参考资料
 
