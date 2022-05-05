@@ -6,7 +6,7 @@
 
 ## 参考代码
 
-<p align="center">
+<div align="center">
 
 |抽象数据类型或算法|代码|
 |--|--|
@@ -29,7 +29,7 @@
 |串的堆分配表示（未全部实现，不可运行）|[HeapString](./src/string/code/heap_string.cpp)
 |模式匹配算法|[ModeMatch](./src/string/code/mode_matching.cpp)
 
-</p>
+</div>
 
 ## 参考资料
 
